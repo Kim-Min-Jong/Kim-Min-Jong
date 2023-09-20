@@ -24,5 +24,5 @@ Interested in:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Min-Jong&layout=compact)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alswhddkdl)](https://solved.ac/alswhddkdl)  
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswhddkdl)](https://solved.ac/alswhddkdl)  
 <!-- 내일배움캠프 Android (2023.07.14 ~ ) -->
