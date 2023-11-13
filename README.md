@@ -21,7 +21,7 @@ Interested in:
 ![Python](https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![Kim-Min-Jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Min-Jong&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Min-Jong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Min-Jong&layout=compact)  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswhddkdl)](https://solved.ac/alswhddkdl)  
