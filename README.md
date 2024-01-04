@@ -1,4 +1,4 @@
-## 👋 Hello, 2024 👋  
+## 👋 Hello👋  
 
 <!-- 졸려....
 **Kim-Min-Jong/Kim-Min-Jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
