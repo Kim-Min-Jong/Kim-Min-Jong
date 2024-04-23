@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 내일배움캠프 Android (2023.07.14 ~ 2023.11.17) 수료 [#](https://voracious-anglerfish-d45.notion.site/9-9-4ef4f895e1684b2cbabd29709a7ac5fa?pvs=4)
 ### contact 
 #### E-mail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswhddkdl@gmail.com)](mailto:jjuhee0913@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswhddkdl@gmail.com)](mailto:alswhddkdl@gmail.com) 
 #### Blog
 [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Tistory&link=https://aaapple.tistory.com/)](https://aaapple.tistory.com/) 
