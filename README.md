@@ -13,8 +13,8 @@
 ### study
 내일배움캠프 Android (2023.07.14 ~ 11.17) 수료  
 [최종 프로젝트 문서](https://feline-bench-884.notion.site/9-9-7c9b3ea4fe4f4bec83892ebf57241cd3?pvs=4)
-### contact 
-#### E-mail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswhddkdl@gmail.com)](mailto:alswhddkdl@gmail.com) 
+<!-- ### contact --> 
+<!-- #### E-mail -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswhddkdl@gmail.com)](mailto:alswhddkdl@gmail.com)--> 
 #### Blog
 [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Tistory&link=https://aaapple.tistory.com/)](https://aaapple.tistory.com/) 
